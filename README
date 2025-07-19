@@ -10,11 +10,5 @@ Run the container
 
 Congratulations!
  Nextcloud is setup using docker containers and docker compose! Let me know if you have any questions.
-
- Note:
-  An account already exists
-
-  Admin:        admin
-  Password:     admin 
   
   -->
