@@ -1,0 +1,20 @@
+<!-- Hello there,
+------------------------------------
+this is my project for Nextcloud.
+    -it works in port 80:80 
+    -you can login or create a new account 
+    -i used maria-DB
+
+Run the container
+   # docker-compose up -d
+
+Congratulations!
+ Nextcloud is setup using docker containers and docker compose! Let me know if you have any questions.
+
+ Note:
+  An account already exists
+
+  Admin:        admin
+  Password:     admin 
+  
+  -->
